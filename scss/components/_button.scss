@@ -1,0 +1,18 @@
+
+
+@use'../custom' as *;
+
+button{
+    font-size: 20px;
+    margin: 15px;
+    padding: 9px;
+    border-radius: 10px;
+    border: none;
+
+   
+}
+
+ button:hover{
+    background-color:rgba($secondary,0.9);
+}
+

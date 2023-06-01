@@ -1,0 +1,33 @@
+@use'../custom' as *;
+
+.faq{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.accordion-item{
+    overflow: hidden;
+    border: none;
+    background-color: transparent !important;
+}
+
+.accordion-item:hover{
+    color:linear-gradient(to right,rgba($primary,0.95),rgba($secondary,0.95));
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+    
+  }
+
+  .accordion-button{
+    border-radius: 10px;
+  }
+
+  .accordion-button:hover {
+    background-color: rgba(70, 69, 69);
+    color: white;
+    
+  }
+
+  

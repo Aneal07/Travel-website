@@ -1,0 +1,33 @@
+@use'../custom' as *;
+
+
+.containers{
+    background: linear-gradient(to right,rgba($primary,0.95),rgba($secondary,0.95));
+}
+.gallery{
+    background-color: black;
+    padding-bottom: 1px;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+   
+} 
+
+.carousel-control-prev:hover, .carousel-control-next:hover {
+    background-color: transparent !important;
+  }
+
+  .carousel {
+    margin: 0 auto;
+  }
+
+  .carousel-inner{
+    margin-top: 10px;
+    border: none;
+    border-radius: 10%;
+  }
+
+ 
+  
+
+  

@@ -1,0 +1,26 @@
+
+
+@use'../custom' as *;
+
+.travel{
+    background-color: black;
+    margin: 0.1px;
+    border: none;
+}   
+
+.services{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    background: linear-gradient(to right,rgba($primary,0.95),rgba($secondary,0.95));
+    
+}
+
+.summer {
+    letter-spacing: 1px;
+    padding: 20px;
+    margin: 0.2px;
+    
+}
+
+
+

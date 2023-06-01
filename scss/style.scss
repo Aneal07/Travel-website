@@ -1,0 +1,23 @@
+
+
+//IMPORTING THE FILES TO COMPILE WITH STYLE.CSS
+@use 'custom';
+
+
+//IMPORT THE COMPONENTS
+
+@use 'components/button';
+
+
+
+
+//IMPORT THE SECTION
+
+@use'sections/navbar';
+@use'sections/about';
+@use'sections/contact';
+@use'sections/faq';
+@use'sections/gallary';
+@use'sections/home';
+@use'sections/services';
+
