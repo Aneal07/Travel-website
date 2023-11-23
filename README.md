@@ -1,2 +1,2 @@
 # Travel-website
-this project is not done yet.
+Need to redo this project for better UI design.
